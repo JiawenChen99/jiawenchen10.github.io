@@ -1,11 +1,32 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiawen Chen Personal Website"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Short Bio
+======
+Hi everyone. I'm a 2nd year PhD student at CCCS Lab, [School of Mathematics](https://math.seu.edu.cn/main.htm/), Southeast University, Nanjing, China. I feel very fortunate to be advised by Prof. [Wenwu Yu](https://scholar.google.com/citations?user=I7XxngUAAAAJ&hl=en) and Prof. [Duxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=xSquFTQAAAAJ).  I received my Bachelor's degree in Information and Computing Science in 2022 and continued my graduate studies at the same institution. My research interests lie at the intersection of complex networks, complex systems, graph representation learning, and higher-order neural networks. I am particularly interested in developing machine learning models, LLM for GNN modeling and higher-order networks. </span> You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com.hk/citations?user=eyWjjeAAAAAJ)</span> here, <span style="color:blue">[Github Site](https://github.com/jiawechen)</span> here.
+**Email Contact**: chenjiawen@seu.edu.cn, chenjiawen1210@gmail.com<br>
+
+
+**Background**
+-----
+- Phd at University of New South Wales (Sept 2024 - Jun 2028)
+  
+- Project Intern, specializing and interested in Identification and Structure Inference of Communication Signal Networks. Huawei Research, Nanjing <br>(Apr 2024 – July 2024)
+
+
+- Master at School of Mathematics, Southeast University, Nanjing, China  (Advised by Prof. Wenwu Yu and Prof. Duxin Chen). (Sept 2022 – Jun 2024)
+  
+- Bachelor at Southeast University, Nanjing, China (Advised by Prof. Wenwu Yu and Prof. Duxin Chen). (Sept 2018 – Jun 2022)
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -25,11 +46,11 @@ For those users that need more advanced functionality, the template also support
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
